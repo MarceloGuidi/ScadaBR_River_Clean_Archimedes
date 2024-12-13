@@ -1,0 +1,36 @@
+//Lista de códigos html para configuração de links direcionando para as respectivas páginas		
+//Código do botão da página principal
+//------------------------------------------------------------------
+<a href="http://localhost:8080/ScadaBR/views.shtm?viewId=14">
+<button style="hight: 23px; width: 110px;"><strong>Principal</strong></button>
+</a>
+
+//Código do botão da página Bombas
+<a href="/ScadaBR/views.shtm?viewId=16">
+<button style="height: 23px; width: 110px;">Bombas</button>
+</a>
+
+//Código do botão da página Comporta
+<a href="/ScadaBR/views.shtm?viewId=20">
+<button style="height: 23px; width: 110px;">Comporta</button>
+</a>
+
+//Código do botão da página Sensores
+<a href="/ScadaBR/views.shtm?viewId=21">
+<button style="height: 23px; width: 110px;">Sensores</button>
+</a>
+
+//Código do botão da página Motores
+<a href="/ScadaBR/views.shtm?viewId=18">
+<button style="height: 23px; width: 110px;">Motores</button>
+</a>
+
+//Código do botão da página Gerador
+<a href="/ScadaBR/views.shtm?viewId=19">
+<button style="height: 23px; width: 110px;">Gerador</button>
+</a>
+
+//Código do botão da página Separador
+<a href="/ScadaBR/views.shtm?viewId=17">
+<button style="height: 23px; width: 110px;">Separador</button>
+</a>
